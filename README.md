@@ -49,5 +49,7 @@ Using HR data to help understand the respective company"s turnover rate by colle
 ![image](https://github.com/Sumaiya988/HR_Employee_Distribution_Dashboard/assets/133051728/0289f9c1-d63b-493d-8bb8-397e0388e3b0)
 ![image](https://github.com/Sumaiya988/HR_Employee_Distribution_Dashboard/assets/133051728/9c725201-6dc5-45cc-96b8-817c59747971)
 
-
+LIMITATIONS:
+1. Some of the records had negative ages and these records has been excluded from analysis. Ages were considered 18years or above 18years.
+2. Some of the termdates were far into future. Since we can not predict termination hence we excluded these records from the analysis. The termdates that considered were equal or less than the current date.
 
